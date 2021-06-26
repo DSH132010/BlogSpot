@@ -4,9 +4,9 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
   delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
   aliquam?
-author: Haemanth
+author: Shamya
 date: 2021-05-01
-image: /assets/blog/article-1.jpg
+image: /assets/blog/bear-in-honey-jar.jpg
 imageAlt: This is a test
 ---
 
