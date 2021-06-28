@@ -18,9 +18,4 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Image caption", name: "imageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Manual PDF"
-  name: "manual_pdf"
-  widget: "file"
-  media_library:
-    config:
-      multiple: true
+      - {label: "Manual PDF", name: "manual_pdf", widget: "file", media_library: config: multiple: true}
