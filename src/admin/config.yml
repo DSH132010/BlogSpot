@@ -18,3 +18,4 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Image caption", name: "imageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {label: "PDF", name: "pdf", widget: "file", default: "/uploads/general-manual.pdf", media_library: config: multiple: true}
