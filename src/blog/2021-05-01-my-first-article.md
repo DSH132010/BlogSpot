@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
   aliquam?
 author: ZRI
-date: 2021-06-29T05:47:20.191Z
+date: 2021-06-29T05:55:51.144Z
 tags:
   - post
   - featured
