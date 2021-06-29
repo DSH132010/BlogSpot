@@ -6,6 +6,9 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   aliquam?
 author: ZRI
 date: 2021-06-29T05:47:20.191Z
+tags:
+  - post
+  - featured
 image: /assets/blog/article-1.jpg
 imageAlt: This is a test
 draft: true
